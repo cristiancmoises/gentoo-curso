@@ -2,4 +2,4 @@ tmpfs                                           /tmp          tmpfs  noatime,nod
 
 
 (COLOCAR A LINHA ACIMA NO /etc/fstab lembrando de editar o valor 20G para o valor de ram
-que voce quiser utilizar *alguns pacotes sao bem pesados e necessitam de no minimo 12G - caso do ungoogled-chromium)
+que voce quiser utilizar *alguns pacotes sao bem pesados e necessitam de no minimo 12G de ram - como caso do ungoogled-chromium)
