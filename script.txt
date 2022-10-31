@@ -1,0 +1,5 @@
+git clone https://github.com/oddlama/gentoo-install
+cd gentoo-install
+chmod +x *
+./configure
+./install
