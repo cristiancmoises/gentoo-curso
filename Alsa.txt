@@ -1,0 +1,5 @@
+1-> emerge alsa-plugins
+2-> emerge alsa-utils
+3-> emerge alsa-core
+4-> emerge phonom
+5-> emerge pavucontrol

@@ -1,0 +1,3 @@
+ RODAR O COMANDO NO TERMINAL ASSIM QUE TERMINAR
+ DE INSTALAR PARA INICIAR NO CHROOT:
+ ./install --chroot /tmp/gentoo-install/root

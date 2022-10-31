@@ -1,0 +1,10 @@
+1-> emerge xorg-server
+2-> emerge xorg-drivers
+3-> emerge sddm
+4-> usermod -a -G video sddm
+5-> nano /etc/conf.d/display-manager
+    CHECKVT=7
+    DISPLAYMANAGER="sddm"
+
+6 -> rc-update add display-manager default
+7 -> rc-service display-manager start

@@ -1,0 +1,6 @@
+[Autologin]
+User=gentoo
+Session=plasma.desktop
+Relogin=yes
+
+(COLAR O QUE ESTA ACIMA EM: ⁄etc⁄sddm.conf)

@@ -1,0 +1,2 @@
+emerge links opera tor privoxy proxychains nmap layman firefox telegram-desktop terminator gedit
+gimp krita libreoffice keepassxc

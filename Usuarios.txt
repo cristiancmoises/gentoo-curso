@@ -1,0 +1,8 @@
+LISTA TODOS OS GRUPOS:
+awk -F':' '{ print $1 }' /etc/group
+_________________________________
+GRUPOS EXEMPLO:
+root,bin,daemon,sys,adm,tty,disk,lp,mem,kmem,wheel,floppy,news,uucp,console,audio,cdrom,dialout,tape,video,cdrw,usb,input,users,portage,utmp,nogroup,nobody,man,sshd,polkitd,messagebus,kvm,render,sgx,lpadmin
+----------------------------------
+useradd -m -G root,bin,daemon,sys,adm,tty,disk,lp,mem,kmem,wheel,floppy,news,uucp,console,audio,cdrom,dialout,tape,video,cdrw,usb,input,users,portage,utmp,nogroup,nobody,man,sshd,polkitd,messagebus,kvm,render,sgx,lpadmin -s /bin/bash gentoo
+----------------------------------
