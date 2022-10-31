@@ -1,0 +1,3 @@
+cd /usr/src/linux/
+make menu config
+make 

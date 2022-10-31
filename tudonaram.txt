@@ -1,0 +1,5 @@
+tmpfs                                           /tmp          tmpfs  noatime,nodev,nosuid,size=20G 0 0 
+
+
+(COLOCAR A LINHA ACIMA NO /etc/fstab lembrando de editar o valor 20G para o valor de ram
+que voce quiser utilizar *alguns pacotes sao bem pesados e necessitam de no minimo 12G - caso do ungoogled-chromium)

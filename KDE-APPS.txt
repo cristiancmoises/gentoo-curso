@@ -1,0 +1,7 @@
+emerge systemsettings
+emerge kde-misc/kshutdown
+kde-apps/kdeutils-meta
+kde-apps/kdenetwork-meta
+kde-apps/kdecore-meta
+kde-apps/kdeadmin-meta
+emerge kleopatra
