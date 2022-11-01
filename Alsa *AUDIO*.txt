@@ -3,3 +3,4 @@
 3-> emerge alsa-core
 4-> emerge phonom
 5-> emerge pavucontrol
+6-> emerge pulseaudio
